@@ -1,2 +1,3 @@
-# pro-iot-platform-hx1g
-Automated issue comment bot repository
+# Pro Iot Platform Hx1G
+
+Automated issue comment bot repository.
